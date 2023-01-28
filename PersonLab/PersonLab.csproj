@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{DA3971A1-D1AE-4515-B9D5-796A9CDBF42D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CPRG211DPersonLab</RootNamespace>
-    <AssemblyName>CPRG211DPersonLab</AssemblyName>
+    <RootNamespace>PersonLab</RootNamespace>
+    <AssemblyName>PersonLab</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CPRG211DPersonLab
+namespace PersonLab
 {
     /// <summary>
     /// Represents Person

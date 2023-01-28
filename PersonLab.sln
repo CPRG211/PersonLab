@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPRG211DPersonLab", "CPRG211DPersonLab\CPRG211DPersonLab.csproj", "{DA3971A1-D1AE-4515-B9D5-796A9CDBF42D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonLab", "PersonLab\PersonLab.csproj", "{DA3971A1-D1AE-4515-B9D5-796A9CDBF42D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
